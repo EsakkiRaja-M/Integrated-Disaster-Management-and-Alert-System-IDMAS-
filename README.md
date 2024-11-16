@@ -67,8 +67,8 @@
 <h3>Setup Steps</h3>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/your-username/IDMAS.git
-cd IDMAS</code></pre>
+    <pre><code>git clone https://github.com/EsakkiRaja-M/Integrated-Disaster-Management-and-Alert-System-IDMAS-.git
+cd Integrated-Disaster-Management-and-Alert-System-IDMAS</code></pre>
   </li>
   <li>Import the project into NetBeans IDE.</li>
   <li>Configure the database connection in the application. Update the connection string with your MySQL database details.</li>
