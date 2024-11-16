@@ -131,4 +131,5 @@ cd IDMAS</code></pre>
 
 <h2 id="acknowledgments">Acknowledgments</h2>
 
-<p>We express our gratitude to all contributors and collaborators for their efforts in making this project a success. Special thanks to the developers, testers, and mentors who provided guidance throughout the development process.</p>
+<p>We would like to thank the contributors, team members, and all those who supported the development of this project. Special thanks to the open-source community for the tools and libraries that made this project possible.</p>
+
